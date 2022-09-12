@@ -11,11 +11,10 @@
 ### 3. [Predicting Bullwhip Effect using ML (Best Paper Award - IEEE conference)](https://github.com/kakashisensei101/Predicting.Bullwhip.Effect.Using.ML--BEST_PAPER_AWARD)
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/64707681/189726362-a11096c0-d427-4096-b7ed-5f0bbd2d4104.gif)
 
-### 4. [Collision Avoidance in Particle Swarm Optimization (Published in Springer)]
+### 4. [Collision Avoidance in Particle Swarm Optimization (Published in Springer)](https://github.com/kakashisensei101/Particle-Swarm-Optimization-PUBLISHED-SPRINGER)
 ![Github Thumbnail 1](https://user-images.githubusercontent.com/64707681/189724046-9a6b61d2-89a2-4a43-94ec-ce0787b7bae5.gif)
 
-### 5. Gemerative Art Collection
-![Turtle - 2](https://user-images.githubusercontent.com/64707681/189725283-851367cc-4436-4a49-b3ab-efe0c6453bc6.gif)
-![Turtle 3](https://user-images.githubusercontent.com/64707681/189726441-f5e6f723-692e-433c-81a6-0c978b3cf8e3.gif)
+### 5. Generative Art Collection
+![Turtle - 2](https://user-images.githubusercontent.com/64707681/189725283-851367cc-4436-4a49-b3ab-efe0c6453bc6.gif) ![Turtle 3](https://user-images.githubusercontent.com/64707681/189726441-f5e6f723-692e-433c-81a6-0c978b3cf8e3.gif)
 
 
